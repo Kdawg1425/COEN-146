@@ -1,5 +1,5 @@
 # COEN-146
-Computer Networks
+Computer Networks (C Focused)
 
 Course Description
 
